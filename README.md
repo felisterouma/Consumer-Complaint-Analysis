@@ -22,6 +22,10 @@ For the four KPIs I created
 
   ```SUM(Total Complaints)```
 
-- Revenue
+- SLA Rate
   
-    ```SUM(Total Amount)```
+    ```DIVIDE([Within SLA], [Total Complaints],0)```
+
+  - Average Response Days
+ 
+    ```AVERAGE('Complaints (Fact)'[Response_Time_Days])```
