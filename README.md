@@ -26,6 +26,6 @@ For the four KPIs I created
   
     ```DIVIDE([Within SLA], [Total Complaints],0)```
 
-  - Average Response Days
+- Average Response Days
  
     ```AVERAGE('Complaints (Fact)'[Response_Time_Days])```
