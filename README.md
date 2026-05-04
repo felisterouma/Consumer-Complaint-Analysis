@@ -29,3 +29,15 @@ For the four KPIs I created
 - Average Response Days
  
     ```AVERAGE('Complaints (Fact)'[Response_Time_Days])```
+  
+## Key Analysis & Insights
+
+### Complaint Trends
+
+Identified high-volume complaint products 
+Seasonal spikes in complaint submissions
+
+### Regional Analysis
+
+States and census regions show significantly higher complaint rates
+
