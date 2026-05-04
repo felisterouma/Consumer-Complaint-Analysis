@@ -16,7 +16,11 @@ The dataset is a consumer complaint dataset tracked from submission through comp
 - PowerPoint
 
 ### DAX Measures
-For the four KPIs I created Total Complaints,
+For the four KPIs I created 
+
+- Total Complaints
+
+  ```SUM(Total Complaints)```
 
 - Revenue
   
