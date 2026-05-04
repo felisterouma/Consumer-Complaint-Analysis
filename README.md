@@ -9,9 +9,13 @@ Consumers continue to file numerous complaints about financial products and serv
 ## Objectives
 
 Identify trends in consumer complaints across products and regions
+
 Evaluate company responsiveness and resolution efficiency
+
 Analyze the relationship between market share and complaint volume
+
 Highlight companies with poor reputation or enforcement history
+
 Provide actionable insights for regulators and stakeholders
 
 ## Dataset
