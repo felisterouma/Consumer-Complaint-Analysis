@@ -41,3 +41,6 @@ Seasonal spikes in complaint submissions
 
 States and census regions show significantly higher complaint rates
 
+### Response Efficiency
+
+Average response days varies significantly across companies
