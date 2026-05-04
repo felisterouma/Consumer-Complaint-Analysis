@@ -56,3 +56,12 @@ States and census regions show significantly higher complaint rates
 ### Response Efficiency
 
 Average response days varies significantly across companies
+
+## Dashboard Features
+
+Interactive filters (Region, State, Year)
+
+Complaint analysis over time
+
+KPI summary cards
+
